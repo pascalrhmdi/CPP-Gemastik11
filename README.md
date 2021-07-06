@@ -3,7 +3,7 @@ adalah repository Latihan CPP kami untuk mempersiapkan lomba Gemastik 12 tahun 2
 Soal soal latihan Gemastik 11 ada di https://gist.github.com/pascalrhmdi/cfa38f5400661f03daed65d979f49d4b
 
 # Penamaan File
-Penamaan File menggunakan PascalCase, ex: FungsiPenambahan.cpp, or StringConcatenation.cpp
+Penamaan File menggunakan PascalCase-(NamaEditor), ex: FungsiPenambahan-Pascal.cpp, or StringConcatenation-Ilham.cpp
 
 # Penamaan Variabel
 Function -> PascalCase.
