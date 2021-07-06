@@ -5,6 +5,11 @@ Soal soal latihan Gemastik 11 ada di https://gist.github.com/pascalrhmdi/cfa38f5
 # Penamaan File
 Penamaan File menggunakan PascalCase, ex: FungsiPenambahan.cpp, or StringConcatenation.cpp
 
+# Penamaan Variabel
+Function -> PascalCase.
+Variabel -> camelCase.
+Constanta -> UPPERCASE.
+
 # Struktur File
 Untuk Source Code penyelesaian soal ditaruh di Folder SC-Gemastik-11
 
