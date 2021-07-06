@@ -15,6 +15,10 @@
 // 8
 // 0
 
+// Kesimpulan, dipake loopin.
+// di C++ gak ada variabel iterasi ke berapanya
+// hanya ada variabel yang berisi isi dari array/vector
+
 #include <bits/stdc++.h>
 
 using namespace std;
